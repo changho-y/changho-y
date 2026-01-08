@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/changho-y/project/billMate">
+      <a href="https://github.com/changho-y/project/tree/main/billMate">
         <img src="https://via.placeholder.com/400x200?text=Utility+Management+App" width="100%" alt="공과금 관리 앱"/>
         <br />
         <strong>🏠 자취생 공과금 관리 서비스</strong>
@@ -21,7 +21,7 @@
       <code>React Native</code> <code>Spring Boot</code> <code>MySQL</code>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/changho-y/project/droneBlock_Edu_Platform">
+      <a href="https://github.com/changho-y/project/tree/main/droneBlock_Edu_Platform">
         <img src="https://via.placeholder.com/400x200?text=Drone+Education+Platform" width="100%" alt="드론 교육 플랫폼"/>
         <br />
         <strong>🛸 드론 통합 교육 플랫폼</strong>
