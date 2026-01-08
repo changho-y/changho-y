@@ -11,23 +11,23 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/billMate">
-        <img src="https://via.placeholder.com/400x200?text=Utility+Management+App" width="100%" alt="공과금 관리 앱"/>
+        <img src="https://github.com/changho-y/project/blob/main/billMate/billMate.PNG" width="100%" alt="공과금 관리 앱"/>
         <br />
         <strong>🏠 자취생 공과금 관리 서비스</strong>
       </a>
       <br />
       실시간 수도/전기/가스비 조회 및 커뮤니티
       <br />
-      <code>React Native</code> <code>Spring Boot</code> <code>MySQL</code>
+      <code>React Native</code> <code>Firebase</code> <code>node.js</code>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/droneBlock_Edu_Platform">
-        <img src="https://via.placeholder.com/400x200?text=Drone+Education+Platform" width="100%" alt="드론 교육 플랫폼"/>
+        <img src="https://github.com/changho-y/project/blob/main/droneBlock_Edu_Platform/drone_edu_platform.png" width="100%" alt="드론 교육 플랫폼"/>
         <br />
         <strong>🛸 드론 통합 교육 플랫폼</strong>
       </a>
       <br />
-      드론 교육 콘텐츠 제공 및 매칭 시스템
+      드론 블록코딩 교육
       <br />
       <code>Node.js</code> <code>React</code> <code>Git</code>
     </td>
