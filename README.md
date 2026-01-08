@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/droneBlock_Edu_Platform">
-        <img src="https://github.com/changho-y/project/blob/main/droneBlock_Edu_Platform/drone_edu_platform.png" width="100%" alt="드론 교육 플랫폼"/>
+        <img src="https://github.com/changho-y/project/blob/main/droneBlock_Edu_Platform/drone_edu_desktopApp.PNG" width="100%" alt="드론 교육 플랫폼"/>
         <br />
         <strong>🛸 드론 통합 교육 플랫폼</strong>
       </a>
