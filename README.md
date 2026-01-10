@@ -11,7 +11,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/billMate">
-        <img src="https://github.com/changho-y/project/blob/main/billMate/billMate.PNG" width="100%" alt="공과금 관리 앱"/>
+        <img src="https://github.com/changho-y/project/blob/main/billMate/billMate.PNG" width="60%" height="250px" alt="공과금 관리 앱"/>
         <br />
         <strong>🏠 자취생 공과금 관리 서비스</strong>
       </a>
