@@ -18,7 +18,7 @@
       <br />
       실시간 수도/전기/가스비 조회 및 커뮤니티
       <br />
-      <code>React Native</code> <code>Firebase</code> <code>node.js</code>
+      <code>React Native</code> <code>Firebase</code> <code>Javascript</code> <code>node.js</code>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/droneBlock_Edu_Platform">
@@ -29,7 +29,7 @@
       <br />
       드론 블록코딩 교육
       <br />
-      <code>Node.js</code> <code>React</code> <code>Git</code>
+      <code>Node.js</code> <code>Electron</code> <code>Javascript</code> <code>Git</code>
     </td>
   </tr>
 </table>
