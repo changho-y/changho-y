@@ -44,8 +44,8 @@
 - **데이터베이스관리사 2급**
 
 #### Others
-- **AIDA 2 Star Freediver**
-
+- **PADI 2**
+- **자동차운전면허 1종보통**
 <h3 align="left">Connect with me:</h3>
 
   - 📫 **changho8838@gmail.com**
