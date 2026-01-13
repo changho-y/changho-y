@@ -44,7 +44,7 @@
 - **데이터베이스관리사 2급**
 
 #### Others
-- **PADI 2**
+- [**PADI 2**](https://github.com/changho-y/changho-y/blob/main/%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B2%84.png)
 - **자동차운전면허 1종보통**
 <h3 align="left">Connect with me:</h3>
 
