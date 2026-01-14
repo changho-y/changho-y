@@ -29,7 +29,23 @@
       <br />
       드론 블록코딩 교육
       <br />
-      <code>Node.js</code> <code>Electron</code> <code>Javascript</code> <code>Git</code>
+      <code>Node.js</code> <code>Electron</code> <code>Javascript</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/changho-y/java-study/tree/main/JDBC_CRUD">
+        <img src="https://github.com/user-attachments/assets/21f2e2c2-58b9-413c-a80d-cd5a8b2e4c07" width="100%" height="250px" alt="Swing과 JDBC"/>
+        <br />
+        <strong>GUI를 사용한 CRUD구현</strong>
+      </a>
+      <br />
+      Swing과 JDBC
+      <br />
+      <code>JDBC</code> <code>Swing</code> <code>GUI</code>
     </td>
   </tr>
 </table>
