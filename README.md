@@ -45,7 +45,7 @@
       <br />
       Swing과 JDBC
       <br />
-      <code>JDBC</code> <code>Swing</code> <code>GUI</code>
+      <code>Java</code> <code>JDBC</code> <code>Swing</code> <code>GUI</code>
     </td>
   </tr>
 </table>
