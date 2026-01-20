@@ -10,6 +10,33 @@
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/changho-y/java-study/tree/main/JDBC_CRUD">
+        <img src="https://github.com/user-attachments/assets/21f2e2c2-58b9-413c-a80d-cd5a8b2e4c07" width="100%" height="250px" alt="Swing과 JDBC"/>
+        <br />
+        <strong>GUI를 사용한 CRUD구현</strong>
+      </a>
+      <br />
+      Swing과 JDBC
+      <br />
+      <code>Java</code> <code>JDBC</code> <code>Swing</code> <code>GUI</code>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/changho-y/project/tree/main/checkup_reservation_system">
+        <img src="https://github.com/changho-y/project/blob/main/checkup_reservation_system/checkup_reservation_system.png" width="100%" height="250px" alt="사내 검진 예약 시스템"/>
+        <br />
+        <strong>사내 임직원을 대상으로 한 검진 예약 백엔드 시스템</strong>
+      </a>
+      <br />
+      Spring Boot 기반 REST API와 간단한 웹 UI를 통해 예약을 제공합니다.
+      <br />
+      <code>Java</code> <code>JPA</code> <code>MySQL</code> <code>Maven</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/changho-y/project/tree/main/billMate">
         <img src="https://github.com/changho-y/project/blob/main/billMate/billMate.PNG" width="60%" height="250px" alt="공과금 관리 앱"/>
         <br />
@@ -30,22 +57,6 @@
       드론 블록코딩 교육
       <br />
       <code>Node.js</code> <code>Electron</code> <code>Javascript</code>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/changho-y/java-study/tree/main/JDBC_CRUD">
-        <img src="https://github.com/user-attachments/assets/21f2e2c2-58b9-413c-a80d-cd5a8b2e4c07" width="100%" height="250px" alt="Swing과 JDBC"/>
-        <br />
-        <strong>GUI를 사용한 CRUD구현</strong>
-      </a>
-      <br />
-      Swing과 JDBC
-      <br />
-      <code>Java</code> <code>JDBC</code> <code>Swing</code> <code>GUI</code>
     </td>
   </tr>
 </table>
