@@ -13,7 +13,7 @@
       <a href="https://github.com/changho-y/java-study/tree/main/JDBC_CRUD">
         <img src="https://github.com/user-attachments/assets/21f2e2c2-58b9-413c-a80d-cd5a8b2e4c07" width="100%" height="250px" alt="Swing과 JDBC"/>
         <br />
-        <strong>GUI를 사용한 CRUD구현</strong>
+        <strong>GUI를 사용한 CRUD</strong>
       </a>
       <br />
       Swing과 JDBC
