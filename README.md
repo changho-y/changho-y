@@ -1,4 +1,4 @@
-<h1 align="left">반갑습니다!😊👋</h1>
+<h1 align="left">안녕하세요.반갑습니다!😊👋</h1>
 <h3 align="left">새로운 기회를 찾고 있는 개발자입니다.</h3>
 
 ![Looking for Job](https://img.shields.io/badge/Status-Looking_for_Job-green?style=for-the-badge)
