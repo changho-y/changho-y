@@ -71,7 +71,7 @@
       <br />
       배포를 위하여 개발 中
       <br />
-      <code>Figma</code> <code>Next.js</code>
+      <code>Figma</code> <code>Next.js</code> <code>Node.js</code>
     </td>
   </tr>
 </table>
