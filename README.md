@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://">
+      <a href="https://github.com/changho-y/project/tree/main/homecoding">
         <img src="https://github.com/changho-y/changho-y/blob/main/hc.PNG" width="100%" height="250px" alt="Swing과 JDBC"/>
         <br />
         <strong>HomeCoding</strong>
